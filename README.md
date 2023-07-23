@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @23harshal
 - 👀 I’m interested in ...java and data struture
-- 🌱 I’m currently learning ... R programing
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... hh234pp@gmail.com
 
